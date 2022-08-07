@@ -5,4 +5,4 @@
 - 📫 How to reach me https://www.linkedin.com/in/vijayssonawane/
 - 📝 Visit blog https://crazzydevelopervj.blogspot.com/
 - 💼 Visit Portfolio https://vijaysone.github.io/
-# https://vijaysone.github.io
+# vijaysone.github.io
